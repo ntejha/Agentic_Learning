@@ -6,3 +6,7 @@ duckduckgo-search
 fastapi
 uvicorn
 groq
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
